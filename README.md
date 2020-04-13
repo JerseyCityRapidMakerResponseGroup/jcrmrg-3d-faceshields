@@ -22,4 +22,4 @@ Names will be \<Printer Designation\>\_\<Material\>\_\<Model\>\_\<Model details\
   
 | Cura Project | gcode | Description | Estimated Time | Additional Notes |
 |---|---|---|---|---|
-|E3_PLA_Verkstan_NA_Stacked_qty20.3mf|E3_PLA_Verkstan_NA_Stacked_qty20.gcode|2x10 stack|21H13M|No slowdown on 1st layer of stacks|
+|E3_PLA_Verkstan_NA_Stacked_qty20.3mf|E3_PLA_Verkstan_NA_Stacked_qty20.gcode|2x10 stack|21H13M|No slowdown on 1st layer of stacks<br>0.4mm Nozzle gcode|
