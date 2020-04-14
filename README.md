@@ -29,12 +29,14 @@ Names will be \<Printer Designation\>\_\<Material\>\_\<Model\>\_\<Model details\
 |PETG     | Material | PETG          |
   
 ### Files
-1. E3_PLA_Verkstan_NA_Stacked_qty20
-    1. **Description:** 2x10 stack of Verkstan NA 6 hole punch using PLA
-    2. **Estimated Time:** (v1.1) 17H47M
-    3. **Actual Time::** 
-    3. **Additional Notes:**
-        1. No slowdown on 1st layer of stacks
-        2. 0.4mm Nozzle gcode
-        3. Concentric floor
-
+<details>
+  <summary>E3_PLA_Verkstan_NA_Stacked_qty20</summary>
+  
+  1. **Description:** 2x10 stack of Verkstan NA 6 hole punch using PLA
+  1. **Estimated Time:** (v1.1) 17H47M
+  1. **Actual Time:** 
+  1. **Additional Notes:**
+      1. No slowdown on 1st layer of stacks
+      1. 0.4mm Nozzle gcode
+      1. Concentric floor        
+</details>
