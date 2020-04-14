@@ -61,7 +61,7 @@ These faceshields can be printed on most 3d printers.  **Please be aware that gc
   If you run into printing problems please [sign up](https://jcrmrg.org/join) with our group. 
   We have an active maker community for troubleshooting.
 
-<details>
+</details>
 
 ## Faceshield Models
 [Verkstan](https://3dprint.nih.gov/discover/3dpx-013306)  
