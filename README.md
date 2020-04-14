@@ -32,8 +32,8 @@ Names will be \<Printer Designation\>\_\<Material\>\_\<Model\>\_\<Model details\
 <details>
   <summary>E3_PLA_Verkstan_NA_Stacked_qty20</summary>
   
-  1. **Description:** 2x10 stack of Verkstan NA 6 hole punch using PLA
-  1. **Estimated Time:** (v1.1) 17H47M
+  1. **Description:** #JCRMRG branded 2x10 stack of Verkstan NA 6 hole punch using PLA
+  1. **Estimated Time:** (v1.2) 18H37M
   1. **Actual Time:** 
   1. **Additional Notes:**
       1. No slowdown on 1st layer of stacks
