@@ -3,3 +3,5 @@
 
 # ignore gcodes bewcause they need to be uploaded separately
 *.gcode
+*.zip
+

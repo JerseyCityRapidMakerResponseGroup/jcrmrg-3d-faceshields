@@ -30,7 +30,7 @@ Names will be \<Printer Designation\>\_\<Material\>\_\<Model\>\_\<Model details\
   
 ### Files
 <details>
-  <summary>E3_PLA_Verkstan_NA_Stacked_qty20</summary>
+  <summary>E3_PLA_Verkstan_NA_Stacked_noz0.4mm_qty20</summary>
   
   1. **Description:** #JCRMRG branded 2x10 stack of Verkstan NA 6 hole punch using PLA
   1. **Estimated Time:** (v1.2) 18H37M
