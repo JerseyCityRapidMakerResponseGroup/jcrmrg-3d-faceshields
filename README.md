@@ -1,29 +1,36 @@
 # jcrmrg-3d-faceshields
 ## Overview
-Jersey City Rapid Makers Response Group - 3D printing files for faceshields  
+[Jersey City Rapid Makers Response Group](https://jcrmrg.org) - 3D printing files for faceshields  
 The JCRMRG is printing faceshields for the local medical establishments to help bolster supplies.
+The group is also actively discussing filling other PPE needs for the local medical establishments, but this repo is specifically geared towards printing facemasks.
+Any help or support are welcome.
 
 ---
 
 ### Additional Information
 These faceshields can be printed on most 3d printers.  **Please be aware that gcode may not work on, and may possibly damage, other printers**.
 
+## Contribution Instructions
+
 <details>
-  <summary>Learn how to contribute</summary>
+  <summary>I'm all in</summary>
 
-  ## Contribution Instructions
+  Great, first go to our [site and sign up](https://jcrmrg.org/join).  
+  After fully onboarding you will be able to contribute to the repo, but it is not required.
+  Follow the guides below for pulling the repo and contributing.
+  In the meantime you can download the gcode or Cura projects and start printing.
 
-  ### Requirements:
+  #### Requirements:
   * Git
   * Cura
   * Write access to the repo (contact @timothyjryan)
 
-  ### Get the repository
+  #### Get the repository
   ```
   cd <where to keep local copy>
   git clone https://github.com/JerseyCityRapidMakerResponseGroup/jcrmrg-3d-faceshields
   ```
-  ### Edit projects
+  #### Edit projects
   *gcode and zips are ignored by git intentionally*
   **Make sure to pull the repository before doing any work**
 
@@ -38,13 +45,23 @@ These faceshields can be printed on most 3d printers.  **Please be aware that gc
   git push
   ```
 
-  ### Upload gcode
+  #### Upload gcode
   Go to the [Releases](https://github.com/JerseyCityRapidMakerResponseGroup/jcrmrg-3d-faceshields/releases) page.  
   Add a new draft. The uploaded file should be a zip of the gcode and the Cura project.  
   **Please be sure that different files have different major version numbers (v1.x, v2.x, etc.).
   This is not exactly how versioning should be used, but it will be the easiest to maintain for our purposes.**
 
 </details>
+
+<details>
+  <summary>I have or am getting a printer, but don't want to do meetings/discord/etc.</summary>
+  
+  Copy the Cura projects for either the Prusa or Verskstan models from this repo (or clone the repo).
+  Print what you can and message [admin@jcrmrg.org](mailto:admin@jcrmrg.org) to discuss drop off.
+  If you run into printing problems please [sign up](https://jcrmrg.org/join) with our group. 
+  We have an active maker community for troubleshooting.
+
+<details>
 
 ## Faceshield Models
 [Verkstan](https://3dprint.nih.gov/discover/3dpx-013306)  
