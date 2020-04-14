@@ -1,2 +1,5 @@
 # vim working files
 *~
+
+# ignore gcodes bewcause they need to be uploaded separately
+*.gcode
