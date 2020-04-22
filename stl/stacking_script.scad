@@ -5,7 +5,7 @@
 //
 
 //The number of instances of the model to stack
-num_to_stack=3;
+num_to_stack=4;
 //The layer height you plan to print at
 layer_height=0.3;
 //The size of gap between stacked copies of the model
@@ -19,13 +19,15 @@ model_path="./Verk_NA_V5_BIGLOGO.stl";
 for (i = [0 : num_to_stack]){
     translate([0, 0,(model_height+stack_gap) * i]){
         if(i > 0){
-            translate([-25, -140,-stack_gap]){
-                color("red")
-                cube([2,.25,stack_gap]);
-            }
-            translate([23, -140,-stack_gap]){
-                color("red")
-                cube([2,.25,stack_gap]);
+            for (i = [0 : 100]){
+                intersection(){
+                    translate([-100, 30+(-10*i),-stack_gap]){
+                        color("red")
+                        cube([200,.3,stack_gap]);
+                    }
+                    translate([0,0,-4])
+                    import(model_path);
+                }
             }
         }
         import(model_path);
